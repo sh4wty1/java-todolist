@@ -1,19 +1,22 @@
-# **Simple To Do List built with Java.**
+# Todo List (Java)
 
-## How to use:
+Simple todo list application to manage tasks via terminal.
 
-* Compile: `javac Main.java`
-* Run: `java Main`
+## 🚀 Features
 
-### Terminal output:
+* Add tasks
+* List tasks
+* Remove tasks
+* Persistent logic ready for expansion
 
-```
-Welcome to your To Do List!
-Commands:
-1 - List tasks
-2 - New task
-3 - Check task
-4 - Delete task
-5 - Exit
-Enter your option:
-```
+## 🛠 Technologies
+
+* Java
+* OOP concepts
+* Lists & data structures
+
+## 📚 What I learned
+
+* Object-oriented programming
+* Data manipulation
+* Program flow control
